@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jialun Shen@sgallon-rin, a 2nd year Master’s student at [Okumura-Funakoshi Lab](https://lr-www.pi.titech.ac.jp/wp/), Tokyo Institute of Technology.
 - 🌱 I’m currently doing research on natural language processing and machine learning.
-- 👀 I’m interested in ACGN.
+- 👀 I’m interested in ACGN (esp. animation and doujin).
 
 [![Sgallon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgallon-rin)](https://github.com/anuraghazra/github-readme-stats)
 
