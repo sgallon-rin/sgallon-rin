@@ -2,7 +2,7 @@
 - 🌱 I’m currently doing research on natural language processing and machine learning.
 - 👀 I’m interested in ACGN (esp. animation and doujin).
 
-[![Sgallon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgallon-rin)](https://github.com/anuraghazra/github-readme-stats)
+[![Sgallon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sgallon-rin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
