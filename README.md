@@ -3,7 +3,7 @@
 - 👀 I’m interested in ACGN (esp. animation and doujin).
 - 🏠 Visit [my homepage](https://sgallon-rin.github.io).
 
-[![Sgallon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sgallon-rin)](https://github.com/anuraghazra/github-readme-stats)
+[![Sgallon's GitHub stats](https://github-readme-stats-eosin-eight-85.vercel.app/api?username=sgallon-rin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
